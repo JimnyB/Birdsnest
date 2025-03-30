@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jimmy\\source\\repos\\Birdsnest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6F760A-553B-40BC-A7FE-8ED05B3ECBA8}|Birdsnest\\Birdsnest.csproj|c:\\users\\jimmy\\source\\repos\\birdsnest\\birdsnest\\controllers\\streamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6F760A-553B-40BC-A7FE-8ED05B3ECBA8}|Birdsnest\\Birdsnest.csproj|solutionrelative:birdsnest\\controllers\\streamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6F760A-553B-40BC-A7FE-8ED05B3ECBA8}|Birdsnest\\Birdsnest.csproj|c:\\users\\jimmy\\source\\repos\\birdsnest\\birdsnest\\views\\stream\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B6F760A-553B-40BC-A7FE-8ED05B3ECBA8}|Birdsnest\\Birdsnest.csproj|solutionrelative:birdsnest\\views\\stream\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6F760A-553B-40BC-A7FE-8ED05B3ECBA8}|Birdsnest\\Birdsnest.csproj|c:\\users\\jimmy\\source\\repos\\birdsnest\\birdsnest\\controllers\\sshcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6F760A-553B-40BC-A7FE-8ED05B3ECBA8}|Birdsnest\\Birdsnest.csproj|solutionrelative:birdsnest\\controllers\\sshcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6F760A-553B-40BC-A7FE-8ED05B3ECBA8}|Birdsnest\\Birdsnest.csproj|c:\\users\\jimmy\\source\\repos\\birdsnest\\birdsnest\\views\\ssh\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B6F760A-553B-40BC-A7FE-8ED05B3ECBA8}|Birdsnest\\Birdsnest.csproj|solutionrelative:birdsnest\\views\\ssh\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6F760A-553B-40BC-A7FE-8ED05B3ECBA8}|Birdsnest\\Birdsnest.csproj|c:\\users\\jimmy\\source\\repos\\birdsnest\\birdsnest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B6F760A-553B-40BC-A7FE-8ED05B3ECBA8}|Birdsnest\\Birdsnest.csproj|solutionrelative:birdsnest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6F760A-553B-40BC-A7FE-8ED05B3ECBA8}|Birdsnest\\Birdsnest.csproj|c:\\users\\jimmy\\source\\repos\\birdsnest\\birdsnest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6F760A-553B-40BC-A7FE-8ED05B3ECBA8}|Birdsnest\\Birdsnest.csproj|solutionrelative:birdsnest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6F760A-553B-40BC-A7FE-8ED05B3ECBA8}|Birdsnest\\Birdsnest.csproj|c:\\users\\jimmy\\source\\repos\\birdsnest\\birdsnest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B6F760A-553B-40BC-A7FE-8ED05B3ECBA8}|Birdsnest\\Birdsnest.csproj|solutionrelative:birdsnest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6F760A-553B-40BC-A7FE-8ED05B3ECBA8}|Birdsnest\\Birdsnest.csproj|c:\\users\\jimmy\\source\\repos\\birdsnest\\birdsnest\\models\\sshservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6F760A-553B-40BC-A7FE-8ED05B3ECBA8}|Birdsnest\\Birdsnest.csproj|solutionrelative:birdsnest\\models\\sshservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6F760A-553B-40BC-A7FE-8ED05B3ECBA8}|Birdsnest\\Birdsnest.csproj|c:\\users\\jimmy\\source\\repos\\birdsnest\\birdsnest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6F760A-553B-40BC-A7FE-8ED05B3ECBA8}|Birdsnest\\Birdsnest.csproj|solutionrelative:birdsnest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jimmy\\source\\repos\\Birdsnest\\Birdsnest\\Views\\Stream\\Index.cshtml",
+              "RelativeDocumentMoniker": "Birdsnest\\Views\\Stream\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jimmy\\source\\repos\\Birdsnest\\Birdsnest\\Views\\Stream\\Index.cshtml",
+              "RelativeToolTip": "Birdsnest\\Views\\Stream\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvy0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T19:37:56.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StreamController.cs",
+              "DocumentMoniker": "C:\\Users\\Jimmy\\source\\repos\\Birdsnest\\Birdsnest\\Controllers\\StreamController.cs",
+              "RelativeDocumentMoniker": "Birdsnest\\Controllers\\StreamController.cs",
+              "ToolTip": "C:\\Users\\Jimmy\\source\\repos\\Birdsnest\\Birdsnest\\Controllers\\StreamController.cs",
+              "RelativeToolTip": "Birdsnest\\Controllers\\StreamController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:34:08.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jimmy\\source\\repos\\Birdsnest\\Birdsnest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Birdsnest\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Jimmy\\source\\repos\\Birdsnest\\Birdsnest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Birdsnest\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T15:41:14.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jimmy\\source\\repos\\Birdsnest\\Birdsnest\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Birdsnest\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jimmy\\source\\repos\\Birdsnest\\Birdsnest\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Birdsnest\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T15:41:06.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Jimmy\\source\\repos\\Birdsnest\\Birdsnest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Birdsnest\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Jimmy\\source\\repos\\Birdsnest\\Birdsnest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Birdsnest\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:27:38.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jimmy\\source\\repos\\Birdsnest\\Birdsnest\\Views\\Ssh\\Index.cshtml",
+              "RelativeDocumentMoniker": "Birdsnest\\Views\\Ssh\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jimmy\\source\\repos\\Birdsnest\\Birdsnest\\Views\\Ssh\\Index.cshtml",
+              "RelativeToolTip": "Birdsnest\\Views\\Ssh\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T14:13:38.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SshController.cs",
+              "DocumentMoniker": "C:\\Users\\Jimmy\\source\\repos\\Birdsnest\\Birdsnest\\Controllers\\SshController.cs",
+              "RelativeDocumentMoniker": "Birdsnest\\Controllers\\SshController.cs",
+              "ToolTip": "C:\\Users\\Jimmy\\source\\repos\\Birdsnest\\Birdsnest\\Controllers\\SshController.cs",
+              "RelativeToolTip": "Birdsnest\\Controllers\\SshController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwEAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:11:07.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SshService.cs",
+              "DocumentMoniker": "C:\\Users\\Jimmy\\source\\repos\\Birdsnest\\Birdsnest\\Models\\SshService.cs",
+              "RelativeDocumentMoniker": "Birdsnest\\Models\\SshService.cs",
+              "ToolTip": "C:\\Users\\Jimmy\\source\\repos\\Birdsnest\\Birdsnest\\Models\\SshService.cs",
+              "RelativeToolTip": "Birdsnest\\Models\\SshService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:09:29.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jimmy\\source\\repos\\Birdsnest\\Birdsnest\\Program.cs",
+              "RelativeDocumentMoniker": "Birdsnest\\Program.cs",
+              "ToolTip": "C:\\Users\\Jimmy\\source\\repos\\Birdsnest\\Birdsnest\\Program.cs",
+              "RelativeToolTip": "Birdsnest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:04:17.927Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

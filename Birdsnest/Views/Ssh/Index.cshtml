@@ -1,0 +1,113 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+        }
+
+        h2 {
+            color: #333;
+            border-bottom: 2px solid #ccc;
+            margin-top: 20px;
+            padding-bottom: 5px;
+        }
+
+        .container {
+            margin: auto;
+            max-width: 600px;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .form-container {
+            margin-top: 20px;
+        }
+
+        form {
+            margin-bottom: 20px;
+        }
+
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+            button:hover {
+                background-color: #45a049;
+            }
+
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+
+        input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        .result-container {
+            margin-top: 20px;
+            background-color: #f1f1f1;
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+        }
+
+            .result-container p {
+                margin: 0;
+                color: #555;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>SSH Connection</h2>
+        <div class="form-container">
+            <form method="post" action="/Ssh/Connect">
+                <button type="submit">Connect to Raspberry Pi</button>
+            </form>
+            <form method="post" action="/Ssh/TakePicture">
+                <button type="submit">Take Picture</button>
+            </form>
+        </div>
+
+        <h2>Copy File from Raspberry Pi</h2>
+        <div class="form-container">
+            <form method="post" action="/Ssh/CopyFile">
+                <button type="submit">Copy File</button>
+            </form>
+        </div>
+
+        <h2>Send Commands to Raspberry Pi</h2>
+        <div class="form-container">
+            <form method="post" action="/Ssh/ExecuteTerminalCommand">
+                @Html.AntiForgeryToken()
+                <label for="command">Enter Command:</label>
+                <input type="text" id="command" name="command" required />
+                <button type="submit">Execute</button>
+            </form>
+        </div>
+
+        <div class="result-container">
+            <h3>Result:</h3>
+            <p>@ViewBag.Result</p>
+        </div>
+    </div>
+</body>
+</html>
